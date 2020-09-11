@@ -1,0 +1,10 @@
+author : dragon_heart
+
+前置準備:
+1.請事先下載好python和pip 詳細下載教程:https://www.youtube.com/watch?v=wqRlKVRUV_k&t=2s
+2.打開cmd 打上pip install googletrans然後按enter 接著等個五秒讓他跑完
+3.打開cmd 打上pip install wikipedia然後按enter 接著等個五秒讓他跑完
+4.完成後請修改在setting.json中的 "installed":"null" 把null改成true
+5.完成後請開啓run.py owOb
+
+完成後請開啓run.py owob
